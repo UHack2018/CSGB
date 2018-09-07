@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1076180433050",
+    "firebase_url": "https://prac2-91d79.firebaseio.com",
+    "project_id": "prac2-91d79",
+    "storage_bucket": "prac2-91d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076180433050:android:d7af777b454c8a89",
+        "android_client_info": {
+          "package_name": "com.example.somen.prac2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076180433050-ia89qe337ja9stm80sbar56ops6gr67k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.somen.prac2",
+            "certificate_hash": "16052bc1a41e9bbd4f4ee9f75dfd26f7634b0c85"
+          }
+        },
+        {
+          "client_id": "1076180433050-41c4nc9rmclocc9mqq2am32hptdnc00r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7PVQuN1OCeHTac5Rftrh3j79zQanq2IM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076180433050-41c4nc9rmclocc9mqq2am32hptdnc00r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
